@@ -1,0 +1,14 @@
+fastapi==0.128.0
+uvicorn==0.40.0
+pydantic-settings==2.10.1
+SQLAlchemy==2.0.46
+asyncpg==0.31.0
+sse-starlette==3.2.0
+alembic==1.18.1
+openai==2.16.0
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.4.0
+pydantic[email]
+argon2-cffi==23.1.0
+PyJWT
+slowapi==0.1.9
